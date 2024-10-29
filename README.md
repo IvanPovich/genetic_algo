@@ -26,13 +26,11 @@
 5. **mutate**: Застосовує мутацію з ймовірністю `MUTATION_RATE`.
 
 ## Використання
+Відкритий приклад генетичного алгоритму (https://stackoverflow.com/questions/31011585/python-genetic-algorithm)
 
+Результат виконання коду прикріплено на зображенні
 ### Запуск коду
 
 Запустіть алгоритм для 100 поколінь:
 ```python
 genetic_algorithm()
-
-Відкритий приклад генетичного алгоритму (https://stackoverflow.com/questions/31011585/python-genetic-algorithm)
-
-Результат виконання коду прикріплено на зображенні 
